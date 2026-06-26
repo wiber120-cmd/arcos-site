@@ -343,7 +343,7 @@ function Donate() {
         </div>
       </div>
       <div className="donate-panel">
-        <img src="/images/doacao-pix.svg" alt="Ilustração de doação via Pix" />
+        <img src="/images/03.png" alt="Ilustração de doação via Pix" />
         <PixBox />
       </div>
     </section>
