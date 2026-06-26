@@ -453,7 +453,7 @@ function CollaboratorForm() {
             Preencha o cadastro e a equipe da ACOS entrará em contato para
             conversar sobre formas de colaboração, voluntariado ou parceria.
           </p>
-          <img src="/images/voluntariado.svg" alt="Ilustração de voluntariado organizado" />
+          <img src="/images/04.png" alt="Ilustração de voluntariado organizado" />
         </div>
 
         <form className="collaborator-form" onSubmit={handleSubmit}>
