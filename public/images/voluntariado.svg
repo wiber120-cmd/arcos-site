@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">Voluntariado organizado</title>
+  <desc id="desc">Ilustracao de pessoas formando uma rede de apoio com checklist e coracoes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eaf7ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#06449c" flood-opacity=".15"/>
+    </filter>
+  </defs>
+  <rect width="960" height="620" rx="34" fill="url(#bg)"/>
+  <path d="M138 432c114-87 203-92 319-27 147 83 248 44 365-58v170H138z" fill="#dff2ff"/>
+  <g filter="url(#shadow)">
+    <rect x="340" y="98" width="280" height="354" rx="26" fill="#fff"/>
+    <rect x="382" y="140" width="196" height="28" rx="14" fill="#d8e8f5"/>
+    <path d="M392 227l24 24 52-62" fill="none" stroke="#14a56b" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="505" y="205" width="70" height="22" rx="11" fill="#0968ce"/>
+    <path d="M392 321l24 24 52-62" fill="none" stroke="#14a56b" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="505" y="299" width="70" height="22" rx="11" fill="#0968ce"/>
+  </g>
+  <g>
+    <circle cx="234" cy="315" r="44" fill="#ffc88c"/>
+    <rect x="174" y="368" width="122" height="116" rx="28" fill="#0968ce"/>
+    <path d="M234 288c29-42 78-14 75 24-33-20-58-12-75-24z" fill="#143a69"/>
+  </g>
+  <g>
+    <circle cx="735" cy="315" r="44" fill="#f2ad75"/>
+    <rect x="674" y="368" width="122" height="116" rx="28" fill="#ee2c24"/>
+    <path d="M690 273c46-28 93 10 83 56-26-31-62-20-83-56z" fill="#5b2a1e"/>
+  </g>
+  <path d="M300 374c55-40 116-58 181-58s127 18 181 58" fill="none" stroke="#06449c" stroke-width="14" stroke-linecap="round" opacity=".55"/>
+  <path d="M480 491c-22-37-73-22-73 21 0 40 73 83 73 83s73-43 73-83c0-43-51-58-73-21z" fill="#ee2c24"/>
+</svg>
