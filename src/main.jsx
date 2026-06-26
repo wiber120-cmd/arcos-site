@@ -271,7 +271,7 @@ function About() {
         </div>
       </div>
       <figure className="image-frame">
-        <img src="/images/criancas-comunidade.svg" alt="Ilustração de crianças e comunidade acolhida" />
+        <img src="/images/02.png" alt="Ilustração de crianças e comunidade acolhida" />
       </figure>
     </section>
   );
