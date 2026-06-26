@@ -236,7 +236,7 @@ function Hero() {
           </div>
           <img
             className="hero-illustration"
-            src="/images/hero-solidariedade.svg"
+            src="/images/01.png"
             alt="Ilustração de voluntários em ação solidária"
           />
           <PixBox compact />
