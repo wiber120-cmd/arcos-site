@@ -25,9 +25,9 @@ import {
 import "./styles.css";
 
 const PIX_KEY = "solidariosiq@yahoo.com";
-const WHATSAPP_URL = "https://wa.me/5543984220843";
+const WHATSAPP_URL = "https://wa.me/5543996993950";
 const WHATSAPP_MESSAGE_URL =
-  "https://wa.me/5543984220843?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20a%20ACOS%20-%20Associa%C3%A7%C3%A3o%20Cora%C3%A7%C3%A3o%20Solid%C3%A1rio";
+  "https://wa.me/5543996993950?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20a%20ACOS%20-%20Associa%C3%A7%C3%A3o%20Cora%C3%A7%C3%A3o%20Solid%C3%A1rio";
 const ADDRESS =
   "Av. Brasil, 649 - loja B - Vila Nova, Siqueira Campos - PR, 84940-000";
 const MAP_URL = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(ADDRESS)}`;
@@ -582,7 +582,7 @@ function Contact() {
         <article>
           <Phone size={24} />
           <h3>WhatsApp</h3>
-          <p>+55 43 98422-0843</p>
+          <p>+55 43 99699-3950</p>
           <a className="button primary" href={WHATSAPP_MESSAGE_URL} target="_blank" rel="noreferrer">
             Chamar no WhatsApp
           </a>
